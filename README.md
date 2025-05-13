@@ -60,23 +60,10 @@ cd operation-navjeevan
 Make sure Python 3 is installed on your machine.
 
 ```bash
-python mission1_clear_field.py
+opnavjeevan.py
 ```
 
 > Replace the filename above with any mission-specific script you want to run.
-
----
-
-## 🗂️ Project Structure
-
-```
-operation-navjeevan/
-├── mission1_clear_field.py         # Remove duplicates and sort cities
-├── mission2_high_alert.py          # Identify high-alert cities
-├── mission3_city_intel.py          # Build dictionary of detailed city intel
-├── mission4_supply_tracking.py     # Track distribution of supplies
-├── README.md                       # This file
-```
 
 ---
 
