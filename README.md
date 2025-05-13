@@ -2,7 +2,7 @@
 
 ## 📖 Overview
 
-**Operation Navjeevan** is a humanitarian data analysis and simulation project developed as part of a major assignment for the *Python for Computer Science and Data Science 1 (CSE 3651)* course at SOA University.
+**Operation Navjeevan** is a humanitarian data analysis and simulation project.
 
 This project simulates real-world, data-driven decision-making for humanitarian relief during the Russia-Ukraine conflict. It uses core Python concepts—including mutable and immutable objects, sets, tuples, lists, and dictionaries—to support the Indian Taskforce for Emergency Relief in managing aid distribution to affected Ukrainian cities.
 
@@ -51,7 +51,7 @@ You take on the role of an advanced intelligence agent, tasked with analyzing mi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/operation-navjeevan.git
+git clone https://github.com/mr-nobody2003/operation-navjeevan.git
 cd operation-navjeevan
 ```
 
