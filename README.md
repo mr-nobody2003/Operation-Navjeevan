@@ -101,8 +101,3 @@ Gratitude to the mentors and educators who inspire students to solve real-world 
 
 > *"Heroes are not born in the mother’s womb, they are born on the battlefield."*
 
----
-
-## 📄 License
-
-This project is intended for educational purposes. For any other use, please contact the author or institution.
